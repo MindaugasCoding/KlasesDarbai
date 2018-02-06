@@ -48,7 +48,6 @@ public class Matematika {
         }
 
     }
-
     private static double TrikampioPlotas(double a, double b) {
         return (a * b) / 2;
     }
